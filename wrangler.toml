@@ -1,3 +1,7 @@
 name = "am-cf-tunnel-sub"
 main = "_worker.js"
 compatibility_date = "2026-03-12"
+
+[vars]
+UUID = $MY_UUID
+HOST = $MY_HOST
